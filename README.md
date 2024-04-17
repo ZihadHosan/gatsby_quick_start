@@ -8,7 +8,7 @@
 </h1>
 <h3 align="center">Dark Mood Enabled</h3? <br/>
 
-[DEMO](https://gatsby-lovat-three.vercel.app/)
+[DEMO](https://gatsby-lovat-three.vercel.app/){:target="\_blank"}
 
 ## 🚀 Quick start guide
 
