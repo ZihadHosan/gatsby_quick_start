@@ -4,46 +4,50 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Minimal Starter
+  Gatsby + ShadCN + Tailwind Minimal Starter
 </h1>
+<h3 align="center">Dark Mood Enabled</h3? <br/>
 
-## 🚀 Quick start
+[DEMO](https://gatsby-lovat-three.vercel.app/)
 
-1.  **Create a Gatsby site.**
+## 🚀 Quick start guide
+
+1.  **Installing Gatsby CLI**
 
     Use the Gatsby CLI to create a new site, specifying the minimal starter.
 
     ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
+    npm install -g gatsby-cli
     ```
 
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
+2.  **Clone the repository**
 
     ```shell
-    cd my-gatsby-site/
-    npm run develop
+    git clone https://github.com/ZihadHosan/gatsby_quick_start.git
+
     ```
 
-3.  **Open the code and start customizing!**
+3.  **Navigate into your new site’s directory and start it up.**
 
-    Your site is now running at http://localhost:8000!
+    ```shell
+    cd gatsby_quick_start
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+    ```
 
-4.  **Learn more**
+4.  **Run the following for initialize**
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Tutorials](https://www.gatsbyjs.com/docs/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Guides](https://www.gatsbyjs.com/docs/how-to/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+    ```shell
+    npm i
 
-## 🚀 Quick start (Netlify)
+    ```
 
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
+5.  **Run the following to start the local development server**
 
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+    ```shell
+    gatsby develop
+
+    ```
+
+    Your site is now running at http://localhost:8000
+
+    Edit `src/pages/index.jsx` to see your site update in real time!
