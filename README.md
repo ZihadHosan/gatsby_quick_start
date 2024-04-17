@@ -7,9 +7,9 @@
   Gatsby Minimal Starter
 </h1>
 
-## 🚀 Quick start shadcn + Tailwind
+## 🚀 Quick start shadcn + Tailwind (dark mood enabled)
 
     ```shell
-    # install with the following comman
+    # install with the following command
     npm i
     ```
