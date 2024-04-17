@@ -32,7 +32,7 @@
     
     ```
 
-4.  **Run the following for initialize **
+4.  **Run the following for initialize**
 
     ```shell
     npm i
@@ -40,7 +40,7 @@
     ```
 
     
-5.  **Run the following to start the local development server **
+5.  **Run the following to start the local development server**
 
     ```shell
     gatsby develop
