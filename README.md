@@ -8,8 +8,6 @@
 </h1>
 <h3 align="center">Dark Mood Enabled</h3? <br/>
 
-[DEMO](https://gatsby-lovat-three.vercel.app/)
-
 ## 🚀 Quick start guide
 
 1.  **Installing Gatsby CLI**
